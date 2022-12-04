@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+	<h1>EJERCICIO DE INTRODUCCION A HTML</h1>
+	<p>Este es mi primer comentario de dos lineas</p>
+	<p>Aprendiendo a documentar mi codigo con openbootcamp</p>
+
+	<h2>Mis videos favoritos de youtube</h2>
+	<ul>
+		<li><a href="https://www.youtube.com/watch?v=euDsPOB-igI">conferencia de escaloni</a></li>
+	    <li><a href="https://www.youtube.com/watch?v=C6T_QcDVi0w">entrevista a messi</a></li>
+		<li><a href="https://www.youtube.com/watch?v=rlTrQQrJlvU">entrevista a julian</a></li>
+		<li><a href="https://www.youtube.com/watch?v=poCY-b0nZKg">entrevista a tini tini</a></li>
+	</ul>
+
+</body>
+</html>
